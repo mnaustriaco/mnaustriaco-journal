@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmizuko_journal=self.webpackChunkmizuko_journal||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About myself","permalink":"/blog/at-the-begingging","unlisted":false},{"title":"Welcome","permalink":"/blog/welcome","unlisted":false}]}')}}]);
