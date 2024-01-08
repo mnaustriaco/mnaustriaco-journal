@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmizuko_journal=self.webpackChunkmizuko_journal||[]).push([[1836],{8172:l=>{l.exports=JSON.parse('{"label":"dev-blog","permalink":"/blog/tags/dev-blog","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
